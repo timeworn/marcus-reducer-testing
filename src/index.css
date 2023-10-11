@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input {
+    @apply border-2 border-sky-500 outline-indigo-300 h-10 px-4;
+}
